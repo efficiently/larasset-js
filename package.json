@@ -1,6 +1,6 @@
 {
   "name": "larasset-js",
-  "description": "Asset Pipeline for Laravel 4+",
+  "description": "Asset packaging system that concatenates and serves JavaScript, CSS... for Larasset package.",
   "version": "0.9.3",
   "keywords": [
     "sprockets",

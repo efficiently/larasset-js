@@ -41,7 +41,7 @@
     "larasset": "bin/larasset.js"
   },
   "dependencies": {
-    "mincer": "~1.2.0",
+    "mincer": "~1.2.1",
     "argparse": "~0.1.15",
     "autoprefixer-core": "~4.0.1",
     "coffee-script": "~1.8.0",

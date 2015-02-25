@@ -88,7 +88,6 @@ if (process.env.NODE_ENV === (process.env.ASSETS_ENV || 'production')) {
   //
   // Enable JS and CSS compression
   //
-  // environment.disable('source_maps');
 
   environment.jsCompressor  = 'uglify';
   // (!) use csswring, because csso does not supports sourcemaps

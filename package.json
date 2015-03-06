@@ -1,7 +1,7 @@
 {
   "name": "larasset-js",
   "description": "Asset packaging system that concatenates and serves JavaScript, CSS... for Larasset package.",
-  "version": "0.9.8",
+  "version": "1.0.0",
   "keywords": [
     "sprockets",
     "assets",
@@ -24,6 +24,7 @@
     "source-map",
     "sourcemaps",
     "laravel",
+    "laravel 5",
     "php"
   ],
   "homepage": "https://github.com/efficiently/larasset-js",
@@ -41,18 +42,18 @@
     "larasset": "bin/larasset.js"
   },
   "dependencies": {
-    "mincer": "~1.2.1",
-    "argparse": "~0.1.15",
-    "autoprefixer-core": "~4.0.1",
+    "mincer": "~1.2.4",
+    "argparse": "~0.1.16",
+    "autoprefixer-core": "~5.1.7",
     "coffee-script": "~1.8.0",
-    "connect": "~2.27.4",
-    "csswring": "~2.0.0",
+    "connect": "~3.3.4",
+    "csswring": "~3.0.1",
     "ejs": "~1.0.0",
-    "glob": "~4.3.1",
-    "less": "~1.7.4",
+    "glob": "~4.4.1",
+    "less": "~1.7.5",
     "node-sass": "1.2.3",
-    "uglify-js": "~2.4.15",
-    "source-map": "~0.1.40"
+    "uglify-js": "~2.4.16",
+    "source-map": "~0.4.1"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

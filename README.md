@@ -9,7 +9,7 @@ other languages and pre-processors such as CoffeeScript, LESS and EJS.
 
 This module is used by the [Larasset](https://github.com/efficiently/larasset) package which is a [Laravel](http://laravel.com) PHP framework extension.
 
-For more a complete description of this module, you can read the Wiki docs of **Larasset**:
+For a more complete description of this module, you can read the Wiki docs of **Larasset**:
 * The [Asset Pipeline](https://github.com/efficiently/larasset/wiki/Asset-pipeline) Guide
 * [Working with Ajax/JavaScript in Laravel](https://github.com/efficiently/larasset/wiki/Working-with-JavaScript-and-Larasset) Guide
 

@@ -49,6 +49,9 @@ environment.enable('source_maps');
 // environment.appendPath(laravelRoot + '/provider/assets/images');
 // environment.appendPath(laravelRoot + '/provider/assets/javascripts');
 // environment.appendPath(laravelRoot + '/provider/assets/stylesheets');
+// environment.appendPath(laravelRoot + '/resources/assets/images');
+// environment.appendPath(laravelRoot + '/resources/assets/js');
+// environment.appendPath(laravelRoot + '/resources/assets/css');
 
 //
 // Cache compiled assets.
@@ -62,7 +65,7 @@ environment.enable('source_maps');
 
 //
 // Define environment essential *_path helper that will be available in the
-// processed assets. See `app/assets/stylesheets/application.css.ejs` for example.
+// processed assets. See `resources/assets/stylesheets/app.css.ejs` for example.
 //
 
 environment.ContextClass.defineAssetPath(function(pathname, options) {

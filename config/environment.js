@@ -7,6 +7,9 @@
 var path   = require('path');
 var Mincer = require('mincer');
 
+// Support Babel (ES2015)
+require('mincer-babel')(Mincer);
+
 //
 // Configure Mincers logger, by default, all
 // messages are going to the middle of nowhere

@@ -10,6 +10,7 @@ var Mincer = require('mincer');
 // Support Babel (ES2015)
 require('mincer-babel')(Mincer);
 
+Mincer.CoffeeEngine.configure({bare: false});
 //
 // Configure Mincers logger, by default, all
 // messages are going to the middle of nowhere

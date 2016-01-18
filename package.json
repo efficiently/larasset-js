@@ -1,7 +1,7 @@
 {
   "name": "larasset-js",
   "description": "Asset packaging system that concatenates and serves JavaScript, CSS... for Larasset package.",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "keywords": [
     "sprockets",
     "assets",

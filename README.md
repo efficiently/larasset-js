@@ -13,6 +13,8 @@ For more a complete description of this module, you can read the Wiki docs of **
 * The [Asset Pipeline](https://github.com/efficiently/larasset/wiki/Asset-pipeline) Guide
 * [Working with Ajax/JavaScript in Laravel](https://github.com/efficiently/larasset/wiki/Working-with-JavaScript-and-Larasset) Guide
 
+For **[Laravel 5](http://laravel.com/docs/5.0)** support see [Larasset-JS 1.2 branch](https://github.com/efficiently/larasset-js/tree/1.2)
+
 Credits
 -------
 
